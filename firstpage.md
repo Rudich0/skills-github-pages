@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog.
 ------
-I am ironman.
+title: I am ironman.
 ---
